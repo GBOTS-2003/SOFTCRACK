@@ -10,7 +10,7 @@ pkg install toilet -y
 
 pkg install git -y
 
-git clone https://github.com/ooo9204/wa-ban
+gt clone https://github.com/GBOTS-2003/SOFTCRACK.git
 
 cd wa-ban
 
