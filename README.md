@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @GBOTS-ROOTED
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-GBOTS-ROOTED/GBOTS-ROOTED is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+WHATSAPP BANNING TOOL
+
+INSTALLATION
+apt update
+
+apt upgrade
+
+pkg install toilet -y
+
+pkg install git -y
+
+git clone https://github.com/ooo9204/wa-ban
+
+cd wa-ban
+
+chmod +x *
+
+bash waban.sh
