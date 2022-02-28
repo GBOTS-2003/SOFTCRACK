@@ -1,6 +1,6 @@
 !/bin/bash
 # are you fool :)
-# this tool wiil not ban any whatsappp number
+# this tool can't ban any whatsappp number
 underline="\e[4m"
 red="\e[0;91m"
 blue="\e[0;94m"
